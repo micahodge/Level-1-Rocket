@@ -3,7 +3,7 @@
  ### [YouTube Demonstration of Rocket Launch](https://youtube.com/shorts/gnUIQKrEAl4)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This rocket was used for my Level 1 Certification with Tripoli Rocketry Association, Inc.. In the video, its apogee was roughly 1500 feet. Also, the rocket was about 5'7" tall. It was successful on its first launch.
 <br />
 
 
@@ -13,7 +13,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Challenges and Solutions</h2>
 
-- <b></b> 
+- <b>The only big challenge in this project was finding a way to get the motor to fit inside the rocket. My rocket had a 54mm wide barrel in the aft end to fit the motor in, but the motor I used was only 38mm wide. I needed something that could fit with the motor inside the aft end barrel, so it would not fall out. With the help of one of my Argo Armada teammates, we created a motor adapter that would friction-fit itself with the motor (shown in the photo below). I then scewed a hole with a hook attachment on it and then drilled the screw down so that the hook attachment would keep the adapter in place. It ended up working perfectly.  </b> 
 
 <h2>Rocket Photos:</h2>
 
